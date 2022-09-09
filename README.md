@@ -42,5 +42,4 @@ While parsing the queries, the program will read lines from the query file and e
 
 While processing the index files, the program will create an object of index, which contains the necessary variables and counts for the relevance ranking models. The initiator of the index will read in lines from the index files, extract the lexicon and posting lists, and gather the document frequency, document term frequency, total number of terms, total term frequency, document lengths, and term positions. 
 
-## models:
-
+Details in readme.pdf
