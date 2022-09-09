@@ -1,0 +1,125 @@
+<	&lt;	less than
+&	&blank;
+>	&gt;	greater than
+&	&amp;	ampersand
+"	&quot;	quotation mark
+—	&mdash;	em dash
+–	&ndash;	en dash
+−	&minus;	minus
+-	&hyph;	hyphen
+‾	&oline;	overbar space
+<	&lt;	less than
+≤	&le;	less than or equal to
+>	&gt;	greater than
+≥	&ge;	greater than or equal to
+≠	&ne;	not equal
+≈	&asymp;	approximately equal to
+≡	&equiv;	identically equal to
+′	&prime;	prime or minutes
+″	&Prime;	double prime or seconds
+Δ	&Delta;	delta
+∇	&nabla;	del
+∂	&part;	partial
+∫	&int;	integral
+·	&middot;	middle dot
+⋅	&sdot;	dot operator
+−	&minus;	minus sign
+×	&times;	multipllcation sign
+÷	&divide;	division sign
+±	&plusmn;	plus or minus
+°	&deg;	degree sign
+⌊	&lfloor;	floor function
+⌋	&rfloor;	floor function
+⌈	&lceil;	ceiling function
+⌉	&rceil;	ceiling function
+∗	&lowast;	asterisk operator, (ordinary *)
+⊕	&oplus;	circled plus
+⊗	&otimes;	circled times
+º	&ordm;	masculine ordinal
+⟨	&lang;	bra
+⟩	&rang;	ket
+≡	&equiv;	identically equal to
+≅	&cong;	congruent to
+∴	&there4;	therefore
+∑	&sum;	summation
+′	&prime;	prime or minutes
+″	&Prime;	double prime or seconds
+Δ	&Delta;	delta
+∇	&nabla;	del
+∂	&part;	partial
+∫	&int;	integral
+∞	&infin;	infinity
+π	&pi;	pi
+½	&frac12;	half
+ℵ	&alefsym;	aleph
+√	&radic;	radical
+∠	&ang;	angle
+⊥	&perp;	perpendicular
+ℜ	&real;	real
+∈	&isin;	is an element of
+∉	&notin;	not an element of
+∅	&empty;	null set
+⊂	&sub;	subset of
+⊆	&sube;	subset or or equal to
+⊄	&nsub;	not a subset
+∩	&cap;	intersection
+∪	&cup;	union
+∼	&sim;	tilde operator (ordinary ~)
+Ø	&Oslash;	slash O
+∧	&and;	logical and
+∨	&or;	logical or
+¬	&not;	not sign
+∼	&sim;	tilde operator (ordinary ~)
+→	&rarr;	right arrow
+↔	&harr;	left right arrow
+⇔	&hArr;	left right double arrow
+↓	&darr;	down arrow
+⇓	&dArr;	down double arrow  *
+↑	&uarr;	up arrow
+⇑	&uArr;	up double arrow  *
+↵	&crarr;	carriage return arrow
+α	&alpha;
+Α	&Alpha;	
+β	&beta;	
+Β	&Beta;	beta
+γ	&gamma;	
+Γ	&Gamma;	gamma
+δ	&delta;	
+Δ	&Delta;	delta
+ε	&epsilon;	
+Ε	&Epsilon;
+ζ	&zeta;	
+Ζ	&Zeta;	zeta
+η	&eta;	
+Η	&Eta;	eta
+θ	&theta;	
+Θ	&Theta;	theta
+ι	&iota;	
+Ι	&Iota;	iota
+κ	&kappa;	
+Κ	&Kappa;	kappa
+λ	&lambda;	
+Λ	&Lambda;	lambda
+μ	&mu;	
+Μ	&Mu;	mu
+ν	&nu;
+ξ	&xi;
+Ξ	&Xi;
+ο	&omicron;
+Ο	&Omicron;	
+π	&pi;
+Π	&Pi;
+σ	&sigma;
+Σ	&Sigma;
+τ	&tau;
+Τ	&Tau;
+υ	&upsilon;
+Υ	&Upsilon;
+φ	&phi;	
+Φ	&Phi;
+χ	&chi;	
+Χ	&Chi;	chi
+ψ	&psi;	
+Ψ	&Psi;	psi
+ω	&omega;	
+Ω	&Omega;
